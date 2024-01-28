@@ -24,3 +24,5 @@ Discover actionable insights with this Power BI dashboard on the Global Supersto
 
 #### Feel free to contribute to enhance this Power BI dashboard for deeper insights! Suggestions are welcome.
 
+## Click to check out live [Power Bi Report](https://www.novypro.com/project/global-superstore--3)
+
